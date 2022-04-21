@@ -3,10 +3,6 @@
 - 🌱 Actualmente estoy aprendiendo desarrollo web 
 - 💞️ Estoy buscando colaborar en proyectos web
 - 📫 Como contactarme  jroque.herokuapp.com
-<!---
-J-Roque/J-Roque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
     <div>
         <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/edududuribeiro/"><i>Johel
