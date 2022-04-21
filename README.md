@@ -72,7 +72,7 @@
 
 <div align="center">
 
-    ![Snake animation](https://github.com/J-Roque/J-Roque/tree/main/assets)
+    ![Snake animation](https://github.com/J-Roque/J-Roque/tree/main/assets/jroque.svg)
 
 </div>
 
