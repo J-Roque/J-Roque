@@ -1,4 +1,18 @@
 <div>
+    <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/edududuribeiro/"><i>Johel
+                Roque</i></a>😃️</h1>
+    <p align="center">Egresado de la carrera de Conputación e Informática con conocimientos <br> </a> básicos en
+        back-end y front-end, en tecnologías web. Soy Apasionado y dedicado. <br> <a
+            href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"><i>YouTube</i></a><span>
+            👉🏽️</span>
+        <a align="rigth" href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"
+            target="_blank">
+            <img width="10%" align="center" valign="middle"
+                src="https://img.shields.io/youtube/channel/subscribers/UCYdpt-6FFX_n-RL81jkxTCg?label=Dcoding&style=social"
+                target="_blank" />
+        </a>
+</div>
+<div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
