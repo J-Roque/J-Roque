@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/edududuribeiro/"><i> Johel
+    <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/johelroque/"><i> Johel
                 Roque</i></a>😃️</h1>
     <p align="center">Egresado de la carrera de Conputación e Informática con conocimientos <br> </a> básicos en
         back-end y front-end, en tecnologías web. Soy Apasionado y dedicado. <br> <a
