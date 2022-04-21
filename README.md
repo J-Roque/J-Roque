@@ -1,9 +1,3 @@
-- 👋 Hola soy @J-Roque
-- 👀 Me interesa el desarrollo backend,frontend y la ciberseguridad
-- 🌱 Actualmente estoy aprendiendo desarrollo web 
-- 💞️ Estoy buscando colaborar en proyectos web
-- 📫 Como contactarme  jroque.herokuapp.com
-
     <div>
         <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/edududuribeiro/"><i>Johel
                     Roque</i></a>
