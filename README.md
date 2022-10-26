@@ -1,6 +1,5 @@
 <div>
-    <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/johelroque/"><i> Johel
-                Roque</i></a>😃️</h1>
+    <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/johelroque/"><i> Johel</i></a>😃️</h1>
     <p align="center">Egresado de la carrera de Computación e Informática con conocimientos <br> </a> básicos en
         back-end y front-end, en tecnologías web. Soy Apasionado y dedicado. <br> <a
             href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"><i>YouTube</i></a><span>
