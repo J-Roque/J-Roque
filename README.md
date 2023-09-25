@@ -1,6 +1,17 @@
 ## Hola, soy Johel Desarrollador Frontend
 
-Apasionado por la programación y comprometido con la constante adquisición y aplicación de conocimientos en el ámbito profesional. [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Apasionado por la programación y comprometido con la constante adquisición y aplicación de conocimientos en el ámbito profesional.
+<a
+            href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"><i>YouTube</i></a><span>
+            👉🏽️</span>
+        <a align="rigth" href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"
+            target="_blank">
+            <img width="10%" align="center" valign="middle"
+                src="https://img.shields.io/youtube/channel/subscribers/UCYdpt-6FFX_n-RL81jkxTCg?label=Dcoding&style=social"
+                target="_blank" />
+        </a>
+        
+[tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
