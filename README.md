@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, ¿todo bien? Soy <a href="https://www.linkedin.com/in/johelroque/">Johel</a> 😃️</h1>
-  <p>Apasionado por la programación y comprometido con la constante adquisición y aplicación de conocimientos en el ámbito profesional.</p>
+  <p style="text-align: center; text-justify: justify;">Desarrollador apasionado con un compromiso constante de aprender y aplicar conocimientos en el ámbito profesional.</p>
   <p>
     <a href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"><i>YouTube</i></a>
     👉🏽️
