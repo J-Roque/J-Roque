@@ -1,7 +1,6 @@
 <div>
     <h1 align="center">Hola todo bien? soy<a href="https://www.linkedin.com/in/johelroque/"><i> Johel</i></a>😃️</h1>
-    <p align="center">Egresado de la carrera de Computación e Informática con conocimientos <br> </a> en
-        back-end y front-end, en tecnologías web. Soy Apasionado y dedicado. <br> <a
+    <p align="center">Apasionado por la programación y comprometido con la constante adquisición y aplicación de conocimientos en el ámbito profesional. <br> <a
             href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"><i>YouTube</i></a><span>
             👉🏽️</span>
         <a align="rigth" href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1"
