@@ -1,32 +1,43 @@
-## Hola, soy Johel Desarrollador Frontend
+# 👋 Hola, soy Johel - Desarrollador Frontend
 
-Apasionado por la programación y comprometido con la constante adquisición y aplicación de conocimientos en el ámbito profesional.
-<a
- href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1">
- <i>YouTube</i>+
- </a>
- <span>👉🏽️</span>
- <a align="rigth" href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1" target="_blank">
-   <img width="10%" align="center" valign="middle"
-   src="https://img.shields.io/youtube/channel/subscribers/UCYdpt-6FFX_n-RL81jkxTCg?label=Dcoding&style=social" target="_blank" />
-</a>
+**Apasionado por el aprendizaje continuo y la mejora constante en el desarrollo frontend.**  
+🎯 **Objetivo:** Contribuir con soluciones prácticas y colaborativas en proyectos de desarrollo web.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+---
 
+## 🛠️ Habilidades Técnicas
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+  <img src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png" alt="GitHub" width="40" height="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
 </div>
-  
-  ##
+
+---
+
+## 🌐 Encuéntrame en:
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/johel0rmr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/johelroque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:mailto:johel0rmr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCYdpt-6FFX_n-RL81jkxTCg?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/johel0rmr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/johelroque/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:johel0rmr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
+
+---
+
+## 🎥 Contenido en YouTube
+
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYdpt-6FFX_n-RL81jkxTCg?label=Dcoding&style=social)
